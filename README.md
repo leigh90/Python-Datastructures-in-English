@@ -1,7 +1,7 @@
 # BASIC DATA STRUCTURES
 
 ## Performance of Data Structures
-1. [Lists](https://github.com/leigh90/Python-Datastructures-in-English/edit/master/README.md)
+1. [Lists](https://github.com/leigh90/Python-Datastructures-in-English/tree/master/DSPerformance)
 2. Dictionaries
 
 ### LINEAR DATA STRUCTURES 
