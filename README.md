@@ -1,5 +1,9 @@
 # BASIC DATA STRUCTURES
 
+## Performance of Data Structures
+1. [Lists](https://github.com/leigh90/Python-Datastructures-in-English/edit/master/README.md)
+2. Dictionaries
+
 ### LINEAR DATA STRUCTURES 
 
 Linear data structures are of data collections whose items are ordered depending on how they are added or removed. You can think of them as having two ends. Linear Data Structures are distinguished based on where data is removed or added, some allow items to be added only on one end while others allow items to be removed from either end
