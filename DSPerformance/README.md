@@ -1,3 +1,6 @@
+## Performance of Python Data Structures
+### Lists
+
 #### Python List Methods and their execution time 
 
 | *Method*     | *Execution Time*  |
@@ -19,7 +22,7 @@
 | sort | O(n log n )        |
 | multiply | O(nk)        |
 
-pop() is faster than pop(i)(popping from the beginning) because in python after the element has been removed the other elements in the list are shifted forward. 
+pop() is faster than pop(i)(_popping from the beginning_) because in python, after the element has been removed, the other elements in the list are shifted forward. 
 
 ```
 popzero = Timer("x.pop(0)",
