@@ -37,3 +37,16 @@ for i in range(1000000,100000001,1000000):
     pz = popzero.timeit(number=1000)
     print("%15.5f, %15.5f" %(pz,pt))
 ```
+
+#### Python Dictionaries and their Big-O Efficiency
+
+| *Method*     | *Execution Time*  |
+| ----------- | ----------- |
+| copy()     | O(n)       |
+| __getitem__()  | O(1)        |
+| __setitem__()   | O(1)        |
+| deleteitem  | O(1)        |
+| contains(in) | O(1)        |
+| iteration  | O(n)        |
+
+On average it appears that dictionaries are faster than lists
